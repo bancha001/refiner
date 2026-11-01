@@ -1,0 +1,11 @@
+# Swift build output
+.build/
+build/
+
+# Distribution artifacts
+*.zip
+*.dmg
+
+# macOS / JetBrains noise
+.DS_Store
+.idea/workspace.xml
