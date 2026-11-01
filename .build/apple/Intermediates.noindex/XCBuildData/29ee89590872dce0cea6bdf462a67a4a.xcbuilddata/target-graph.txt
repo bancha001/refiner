@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'Refiner_38DC6B57117E95D2_PackageProduct' in project 'Refiner'
+Target 'Refiner_38DC6B57117E95D2_PackageProduct' in project 'Refiner' (no dependencies)
